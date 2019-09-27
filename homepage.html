@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang ="en">
+	<head >
+		<title>Project</title>
+
+			<link type="text/css" rel="stylesheet" href="homePage.css">
+
+			<link href="https://fonts.googleapis.com/css?family=Arimo|Butterfly+Kids|Dosis|Heebo&display=swap" rel="stylesheet">
+
+			<script type = "text/javascript" src = "homejs.js"></script>
+	</head>
+	<body>
+		
+		<div class="navbar">
+			<a href="homepage.html">Home</a>
+			<div class="dropdown">
+			    <button class="dropbtn">Courses 
+			    </button>
+			    <div class="dropdown-content">
+			     	<button class="scibtn"><a href="science.html">Science</a></button>
+			     		<!-- <div class="scidropdown-content">
+			     			<a href="#">Engineering</a>
+			     			<a href="#">Medical</a>
+			     		</div> -->
+			     	<button class="combtn">Commerce </button>
+			     	<button class="artsbtn">Arts</button>
+			    </div>
+		  	</div> 
+		  	<a href="contactpage.html">Contact us</a>
+		  	<a class="navbar-right" href="signup.html">Sign up</a>
+		  	<a class="navbar-right" href="#">Sign in</a>
+		    <!-- USE THE BELOW CODE WHEN CREATING FOR A MOBILE COMPATIBLE -->
+		    <!-- <a class="dropdownIcon" onclick="dropdownMenu()" href="javascript: void(0);">&#9776;</a> -->
+	  	
+	  
+		</div>
+		<div class="images">
+			<img src="study.jpeg" width="1300" height="500">
+			<div class="center">
+				<p>The place for helping you choose the right career</p>
+			</div>
+		</div>
+		<br><br>
+
+		
+
+		<br><br><br>
+
+		
+		<script type="text/javascript">
+			function dropdownMenu() {
+				var x = document.getElementById("dropdownClick")
+				if (x.className === "topnav") {
+					x.className +=" responsive";
+				} 
+				else {
+					x.className = "topnav"
+				}
+
+			}			
+		</script>
+		
+
+
+	</body>
+</html> 
