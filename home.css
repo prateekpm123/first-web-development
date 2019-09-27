@@ -1,0 +1,80 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.navbar {
+	position: absolute;
+	top: 0%;
+}
+
+/*Background image study.jpeg*/
+img {
+	width: 100%;
+}
+
+/*Removing default styles of list and links*/
+li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* Aligning the text bars*/
+
+ul {
+	margin: 0 auto;
+	float: left;
+}
+
+ul li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	float: left;
+	display: inline;
+	position: relative;
+
+}
+
+ul li a {
+	padding: 13px 25px;
+	display: inline-block;
+	filter: none;
+}
+
+ul li a:hover {
+	color: white;
+	background-color: black;
+	opacity: 0.5;
+	border-radius: 5px;
+}
+
+ul li :hover > ul {
+	visibility: visible;
+}
+
+ul ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	visibility: hidden;
+	position: absolute;
+	width: 180px;
+}
+
+ul ul li a {
+	padding: 9px 15px;
+	display: inline-block;
+	text-decoration: none;
+	float: left;
+	width: 150px;
+}
