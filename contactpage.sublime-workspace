@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"ra",
+				"border-radius\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"b",
+				"background-image\tproperty"
+			],
+			[
+				"style",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"dropdown",
+				"dropdownClick"
+			],
+			[
+				"my",
+				"mycursor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/prateek/Documents/WINDOWS 10 DOCS/MY ALL WEB DEVELOPMENT PROGEAMS/5TH SEM IP PROJECT/science.css",
+		"/home/prateek/Downloads/STANFORD CORE NLP/stanford-corenlp-full-2018-10-05/javax.json-api-1.0-sources.jar",
+		"/home/prateek/Documents/WINDOWS 10 DOCS/MY ALL WEB DEVELOPMENT PROGEAMS/5TH SEM IOT PROJECT/homePage.css",
+		"/home/prateek/Documents/WINDOWS 10 DOCS/MY ALL WEB DEVELOPMENT PROGEAMS/5TH SEM IOT PROJECT/project1.html",
+		"/home/prateek/Desktop/AI HACKATHON/Categorization tutorial on analyticvidya/Amazon review dataset/test.py",
+		"/home/prateek/Documents/WINDOWS 10 DOCS/MY ALL WEB DEVELOPMENT PROGEAMS/5TH SEM IOT PROJECT/homePage.txt",
+		"/home/prateek/Documents/MY ALL WEB DEVELOPMENT/JAVASCRIPT PRACTICE/home.html",
+		"/home/prateek/Documents/MY ALL WEB DEVELOPMENT/prac1.html",
+		"/home/prateek/Documents/MY PYTHON MINI PROJECT/login1.py",
+		"/home/prateek/Documents/MY PYTHON MINI PROJECT/login.py",
+		"/home/prateek/Documents/MY ALL SHELL PROGRAMS/currenconve.sh",
+		"/home/prateek/Documents/MY ALL SHELL PROGRAMS/cn.sh",
+		"/home/prateek/Documents/Python pracs sem 4/ZEESHAN PROGRAMS/P37.py",
+		"/home/prateek/Downloads/P35.py",
+		"/home/prateek/Documents/MY ALL SHELL PROGRAMS/gui.sh",
+		"/home/prateek/Documents/MY ALL SHELL PROGRAMS/forloop.sh",
+		"/home/prateek/Documents/MY ALL SHELL PROGRAMS/GUI..sh",
+		"/home/prateek/Documents/MY ALL SHELL PROGRAMS/ss4.sh",
+		"/home/prateek/Desktop/project.sh",
+		"/home/prateek/Documents/MY ALL SHELL PROGRAMS/ss1.sh",
+		"/home/prateek/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "contactpage.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
